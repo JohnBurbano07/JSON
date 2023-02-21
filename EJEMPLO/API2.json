@@ -1,40 +1,39 @@
 {
   "squadName": "DEMON R",
   "homeTown": "BOGOTA",
-  "formed": 3000,
+  "formed": 2023,
   "secretBase": "INGENIERIA SISTEMAS",
   "active": true,
   "members": [
     {
-      "name": "Molecule Man",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
+      "name": "GOKU",
+      "age": 42 ,
+      "secretIdentity": "SON",
       "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "KI",
+        "PODER",
+        "FUERZA"
       ]
     },
     {
-      "name": "Madame Uppercut",
-      "age": 3,
-      "secretIdentity": "Jane Wilson",
+      "name": "MR ROCHI",
+      "age": 240,
+      "secretIdentity": "ROCHI",
       "powers": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "VIEJO",
+        "SABIDURIA",
+        "ATAQUE"
       ]
     },
     {
-      "name": "Eternal Flame",
-      "age": 100000,
-      "secretIdentity": "Unknown",
+      "name": "TRUNSK",
+      "age": 24,
+      "secretIdentity": "PEQUEÑO",
       "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "PODER",
+        "AMISTAD",
+        "TELETRANSPORTACION",
+        "INTERCCION"
       ]
     }
   ]
