@@ -6,6 +6,7 @@ html {
 
 body {
   width: 80%;
+  margin: 0 auto;
   color: darkgreen ;
   height:100%;
   background-image: url(../htdocs/EJEMPLO/1.jpg);
