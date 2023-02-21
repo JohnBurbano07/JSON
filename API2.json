@@ -1,0 +1,40 @@
+{
+  "squadName": "DEMON R",
+  "homeTown": "BOGOTA",
+  "formed": 2023,
+  "secretBase": "INGENIERIA SISTEMAS",
+  "active": true,
+  "members": [
+    {
+      "name": "GOKU",
+      "age": 42 ,
+      "secretIdentity": "SON",
+      "powers": [
+        "KI",
+        "PODER",
+        "FUERZA"
+      ]
+    },
+    {
+      "name":"ROCHI",
+      "age": 240,
+      "secretIdentity": "ROCHI",
+      "powers": [
+        "VIEJO",
+        "SABIDURIA",
+        "ATAQUE"
+      ]
+    },
+    {
+      "name": "TRUNSK",
+      "age": 24,
+      "secretIdentity": "PEQUEÑO",
+      "powers": [
+        "PODER",
+        "AMISTAD",
+        "TELETRANSPORTACION",
+        "INTERCCION"
+      ]
+    }
+  ]
+}
